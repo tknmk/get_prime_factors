@@ -15,4 +15,4 @@ for文を使用したシンプルなコードです。
 ## Usage
 
 1. git clone
-2. just run like this! ($ php get_prime_factors.php <number>)
+2. just run like this! ($ php get_prime_factors.php "number")
